@@ -1,0 +1,13 @@
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\bin\Debug\netstandard2.0\XamarinFormsCameraTest.deps.json
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\bin\Debug\netstandard2.0\XamarinFormsCameraTest.dll
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\bin\Debug\netstandard2.0\ref\XamarinFormsCameraTest.dll
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\bin\Debug\netstandard2.0\XamarinFormsCameraTest.pdb
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\XamarinFormsCameraTest.csproj.CoreCompileInputs.cache
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\XamarinFormsCameraTest.AssemblyInfoInputs.cache
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\XamarinFormsCameraTest.AssemblyInfo.cs
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\XamlC.stamp
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\XamarinFormsCameraTest.dll
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\ref\XamarinFormsCameraTest.dll
+E:\GitRepos\Xamarin\XamarinFormsCameraTest\XamarinFormsCameraTest\XamarinFormsCameraTest\obj\Debug\netstandard2.0\XamarinFormsCameraTest.pdb

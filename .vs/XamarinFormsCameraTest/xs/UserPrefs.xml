@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0C081FF9-A717-49D9-B3BB-44BE37B51A0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsCameraTest/XamarinFormsCameraTest.iOS/Info.plist">
+    <Files>
+      <File FileName="XamarinFormsCameraTest/XamarinFormsCameraTest.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamarinFormsCameraTest/XamarinFormsCameraTest.iOS/Entitlements.plist" />
+      <File FileName="XamarinFormsCameraTest/XamarinFormsCameraTest.iOS/Main.cs" />
+      <File FileName="XamarinFormsCameraTest/XamarinFormsCameraTest.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormsCameraTest" expanded="True" selected="True">
+            <Node name="XamarinFormsCameraTest.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsCameraTest.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.b2a09af5842de6b2ddc4d4ba66973810d2c4682f" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -63,15 +63,17 @@
     <CodesignKey>iPhone Developer</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <AppExtensionDebugBundleId />
+  </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CameraPageRenderer.cs" />
+    <Compile Include="CameraPreviewRenderer.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="UICameraPreview.cs" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="ITunesArtwork" />
-    <None Include="ITunesArtwork%402x" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -117,6 +119,9 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -136,8 +141,12 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\XamarinFormsCameraTest\XamarinFormsCameraTest.csproj">
-      <Project>{B3879765-26D6-40D5-8B61-636660C78423}</Project>
+      <Project>{0F5E3B64-7809-4374-B3AB-CF2E4261E6B8}</Project>
       <Name>XamarinFormsCameraTest</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ITunesArtwork Include="ITunesArtwork" />
+    <ITunesArtwork Include="ITunesArtwork%402x" />
   </ItemGroup>
 </Project>

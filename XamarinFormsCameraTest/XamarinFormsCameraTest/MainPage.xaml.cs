@@ -16,9 +16,5 @@ namespace XamarinFormsCameraTest
             InitializeComponent();
         }
 
-        async private void Press1_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new CameraPage());
-        }
     }
 }
