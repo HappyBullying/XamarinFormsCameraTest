@@ -4,7 +4,8 @@
 			 xmlns:local="clr-namespace:XamarinFormsCameraTest;assembly=XamarinFormsCameraTest"
 			 x:Class="XamarinFormsCameraTest.MainPage"
 			 Padding="0,20,0,0"
-			 Title="Main Page">
+			 Title="Main Page"
+             NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="CameraTest" />
